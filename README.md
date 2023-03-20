@@ -1,5 +1,5 @@
 # PROJECT 1
-======
+---
 This project will implement two sorting algorithms to sort an alternating set of black and white disks.
 
 The first algorithm is the alternating disk algorithm which is where in each run, every two disks are compared and swapped only if necessary.
